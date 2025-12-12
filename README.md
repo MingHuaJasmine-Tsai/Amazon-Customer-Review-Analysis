@@ -152,9 +152,9 @@ These insights help sellers:
 ---
 
 ## 🤝 Contributors
-- **@Kapilan199** –
-- **@marins0330** –
-- **@ymk1003** –
+- **@Kapilan199** 
+- **@marins0330**
+- **@ymk1003**
 
 
 ---
